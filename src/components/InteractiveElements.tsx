@@ -31,7 +31,6 @@ export default function InteractiveElements({ onSelectMessage }: InteractiveElem
       memories: [
         { content: '[rir daquele dia em que você...] - suas piadas me matam de tanto rir!', emoji: '😂' },
         { content: 'somos um casal foda pra krl, eu amo tudo em ti', emoji: '🎭' },
-        { content: 'Lembra quando... [momento engraçado de vocês]? Clássico!', emoji: '😆' },
       ],
     },
     special: {
