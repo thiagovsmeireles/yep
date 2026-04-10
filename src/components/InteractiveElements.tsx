@@ -15,21 +15,21 @@ export default function InteractiveElements({ onSelectMessage }: InteractiveElem
       { category: 'minha paz', content: 'estou viciado em você, sempre que estou contigo é quando percebo que finalmente estou em paz', emoji: '🕊️' },
       { category: 'minha paz', content: 'Sua presença acalma até os meus piores dias. Você é paz para minha alma.', emoji: '💆' },
       { category: 'meu vício', content: 'Não consigo parar de pensar em você. Você é meu vício que não quero curar nunca.', emoji: '😈' },
-      { category: 'meu vício', content: 'Cada beijo seu é um vício que só piora... e eu amo estar viciado.', emoji: '💋' },
+      { category: 'meu vício', content: 'eu amo ser viciado em você.', emoji: '💋' },
     ],
     planets: {
       desire: [
         { content: 'eu amo sua carinha de safada quando você começa me provocar..', emoji: '🔥' },
-        { content: 'Você me faz desejar coisas que nunca desejei antes. Você é perigosa...', emoji: '⚡' },
+        { content: 'Você me faz desejar coisas que nunca desejei antes...', emoji: '⚡' },
         { content: 'Não há nada melhor que você me beijando... nada no mundo.', emoji: '💋' },
       ],
       love: [
-        { content: 'Te amo muito, muito mesmo. Você mudou minha vida completamente.', emoji: '❤️' },
-        { content: 'Mikelly, você é meu tudo. Minha vida, meu amor, meu futuro.', emoji: '💕' },
+        { content: 'Te amo muito, muito mesmo. Tenho certeza que você é a mulher da minha vida.', emoji: '❤️' },
+        { content: 'Mikelly, você é Minha vida, meu amor, meu futuro.', emoji: '💕' },
         { content: 'Obrigado por existir, delicia', emoji: '🌟' },
       ],
       memories: [
-        { content: '[rir daquele dia em que você...] - suas piadas me matam de tanto rir!', emoji: '😂' },
+        { content: 'você é o motivo da minha alegrinha, meu amor!', emoji: '😂' },
         { content: 'somos um casal foda pra krl, eu amo tudo em ti', emoji: '🎭' },
       ],
     },
