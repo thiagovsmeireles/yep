@@ -1,10 +1,10 @@
 # 🌌 Nosso Universo
 
-Uma experiência imersiva, sensual e personalizada criada com amor para Mikelly.
+Uma experiência imersiva e personalizada criada para Mikelly.
 
 ## 🎯 Conceito
 
-Não é só um site — é uma experiência narrativa cinematográfica onde você entra em um universo infinito cheio de mensagens carinhosas, safadas e memoráveis.
+Não é só um site — é uma experiência narrativa cinematográfica onde você entra em um universo infinito cheio de mensagens carinhosas e memoráveis.
 
 ## 🧱 Estrutura
 
